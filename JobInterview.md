@@ -3,7 +3,7 @@
 Absensi adalah metode untuk mencatat berapa banyak mahasiswa tidak hadir disetiap mata kuliah. Absensi online ini adalah pencatatan kehadiran dengan sistem cloud yang terhubung dengan database secara realtime, ini akan menyimpan data absensi secara otomatis tanpa perlu melakukan rekapitulasi. Selain itu, data absensi yang telah masuk dapat diakses di mana pun dan kapan pun, dengan catatan harus tetap terhubung dengan jaringan internet.
 
 ## 1.2. Deksripsi Teknologi Informasi
-
+Roll Call
 
 
 ## 1.3. Branding

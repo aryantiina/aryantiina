@@ -35,27 +35,23 @@ User experience theme:
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 Admin | Mengakses data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
-Admin | Mengakses data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
-Admin | Upload Product  | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
-Admin | Edit Product  | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
-Admin | Hapus Product  | Bisa menghapus product | ⭐⭐⭐⭐⭐
-Pengguna | Melihat semua product | Mendapatkan banyak piliha furnitur  | ⭐⭐⭐⭐
-Pengguna | Melihat detail furnitur | Bisa meliahat deskripsi lengkap furnitur  | ⭐⭐⭐⭐
-Pengguna | Menyimpan furnitur yang akan dibeli didalam keranjang | Dapat memilih kembali furnitur sebelum di checkout  | ⭐⭐⭐⭐
-Pengguna | Memilih jasa kirim | Bisa menyesuaikan dengan jasa kirim yang diinginkan  | ⭐⭐⭐
-Pengguna | Memilih Media Pembayaran | Bisa menyesuaikan payment yang dipunya  | ⭐⭐⭐⭐⭐
+Admin | Mengakses jumlah user  | Bisa melihat detail jumlah pengguna dan mengubah status pengguna | ⭐⭐⭐⭐⭐
+Admin | Mengatur kebutuhan pengguna  | Mengubah biodata atau memberi akses menambah jadwal  | ⭐⭐⭐⭐⭐
+Pengguna | Edit Jadwal  | Bisa merubah jadwal, menambah, dan menghapus | ⭐⭐⭐⭐⭐
+Pengguna | Mengakses siapa saja yang absen | Bisa mengetahui yang absen pada mata kuliah tertentu | ⭐⭐⭐⭐⭐
+Pengguna | Melihat jumlah absen | Mengetahui seberapa banyak pengguna melewatkan kelas  | ⭐⭐⭐⭐
+Pengguna | Melihat detail biodata | Bisa meliahat biodata lengkap pengguna  | ⭐⭐⭐⭐
+Pengguna | Mengirim permohonan izin | Dapat mengirim permohonan izin kepada dosen  | ⭐⭐⭐⭐
+Pengguna | Memilih jadwal kuliah | Bisa menyesuaikan dengan bulan dan hari yang akan di klik  | ⭐⭐⭐
+Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 
 ## 3. Struktur Data
 
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/ERD.png?raw=true)
 
 ## 4. Arsitektur Sistem
 
-```mermaid
-flowchart TD
-    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Laravel] <--> id3[Web Server: Laravel]  
-```
+
 
 ## 5. Teknologi, Library, dan Framework
 
@@ -72,15 +68,12 @@ flowchart TD
 
 Landing Page 
 
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Landing%20Page.png?raw=true)
 
 Details Page
 
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Single%20Page.png?raw=true)
 
 Succsess Page
 
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Success%20Page.png?raw=true)
 
 ## 7. Demonstrasi Video
 

@@ -55,13 +55,13 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 5. Teknologi, Library, dan Framework
 
-- UI/UX Design : Figma
-- Web Server   : Laragon
-- Text Editor  : VS Code
-- Browser      : Chrome
-- Library      : Laravel Jetstream
-- Framework    : Laravel
-- Database     : MySQL
+- UI/UX Design : 
+- Web Server   : 
+- Text Editor  : 
+- Browser      : 
+- Library      : 
+- Framework    : 
+- Database     : 
   
 
 ## 6. Desain User Experience dan User Interface

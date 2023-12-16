@@ -26,7 +26,7 @@ User experience theme:
 •	Simpel
 •	Sederhana
 •	Bermanfaat
-•  Warna : pastel dan terang white, lilac dsn tosca
+•  Warna : pastel dan terang white, lilac dan tosca
 
 
    
@@ -38,7 +38,7 @@ sebagai | saya ingin bisa | sehingga | prioritas
 Admin | Mengakses data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
 Admin | Mengakses jumlah user  | Bisa melihat detail jumlah pengguna dan mengubah status pengguna | ⭐⭐⭐⭐⭐
 Admin | Mengatur kebutuhan pengguna  | Mengubah biodata atau memberi akses menambah jadwal  | ⭐⭐⭐⭐⭐
-Admin | Membuat Jadwal | Kebijakan ketepatan waktu, keterlambatan, dan absensi yang disesuaikan dengan kebutuhan perusahaan |  ⭐⭐⭐⭐⭐
+Admin | Mengatur waktu | Kebijakan ketepatan waktu, keterlambatan, dan absensi yang disesuaikan dengan dosen |  ⭐⭐⭐⭐⭐
 Pengguna | Edit Jadwal  | Bisa merubah jadwal, menambah, dan menghapus | ⭐⭐⭐⭐⭐
 Pengguna | Mengakses siapa saja yang absen | Bisa mengetahui yang absen pada mata kuliah tertentu | ⭐⭐⭐⭐⭐
 Pengguna | Melihat jumlah absen | Mengetahui seberapa banyak pengguna melewatkan kelas  | ⭐⭐⭐⭐
@@ -57,13 +57,12 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 5. Teknologi, Library, dan Framework
 
-- UI/UX Design : 
+- UI/UX Design : Figma
 - Web Server   : 
-- Text Editor  : 
-- Browser      : 
+- Text Editor  : Vs Code/NetBeans 
 - Library      : 
 - Framework    : 
-- Database     : 
+- Database     : MySQL
   
 
 ## 6. Desain User Experience dan User Interface

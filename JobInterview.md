@@ -18,7 +18,7 @@ Target user :
 •	Semua usia 
 •	Orang yang menyukai hal simpel mudah tapi bermanfaat
 •	Seseorang yang ingin mendisiplinkan dirinya sendiri 
-•	
+•	Absen dapat dilakukan dan diakses darimana saja hanya dengan menggunakan smartphone dan internet
 
 
 User experience theme:
@@ -26,6 +26,7 @@ User experience theme:
 •	Simpel
 •	Sederhana
 •	Bermanfaat
+•  Warna : pastel dan terang white, lilac dsn tosca
 
 
    
@@ -37,6 +38,7 @@ sebagai | saya ingin bisa | sehingga | prioritas
 Admin | Mengakses data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
 Admin | Mengakses jumlah user  | Bisa melihat detail jumlah pengguna dan mengubah status pengguna | ⭐⭐⭐⭐⭐
 Admin | Mengatur kebutuhan pengguna  | Mengubah biodata atau memberi akses menambah jadwal  | ⭐⭐⭐⭐⭐
+Admin | Membuat Jadwal | Kebijakan ketepatan waktu, keterlambatan, dan absensi yang disesuaikan dengan kebutuhan perusahaan |  ⭐⭐⭐⭐⭐
 Pengguna | Edit Jadwal  | Bisa merubah jadwal, menambah, dan menghapus | ⭐⭐⭐⭐⭐
 Pengguna | Mengakses siapa saja yang absen | Bisa mengetahui yang absen pada mata kuliah tertentu | ⭐⭐⭐⭐⭐
 Pengguna | Melihat jumlah absen | Mengetahui seberapa banyak pengguna melewatkan kelas  | ⭐⭐⭐⭐

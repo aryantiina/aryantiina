@@ -10,7 +10,7 @@ Roll Call adalah aplikasi yang bisa digunakan untuk mahasiswa dan dosen agar mem
 
 Merk : Roll Call
 
-Tagline : Absen mudah dan simpel
+Tagline : Absen mudah, simpel dan sederhana
 
 Campaign : Membuat aplikasi sederhana dimana penggunanya dapat dengan mudah mengisi absensi secara online.
 
@@ -57,7 +57,7 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 5. Teknologi, Library, dan Framework
 
-- UI/UX Design : Figma
+- UI/UX Design : Canva
 - Web Server   : 
 - Text Editor  : Vs Code/NetBeans 
 - Library      : 

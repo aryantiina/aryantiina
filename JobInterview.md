@@ -82,7 +82,31 @@ Link youtube nya
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Mesin komputasi (hardware) dan sistem operasi (operating system) adalah dua komponen kunci dalam produk teknologi informasi. Keduanya bekerja bersama-sama untuk memastikan bahwa perangkat lunak (software) dapat berjalan dengan efisien dan sesuai dengan kebutuhan pengguna. Berikut adalah peran masing-masing dalam produk teknologi informasi:
+
+1. Mesin Komputasi (Hardware):
+
+   -Pengolahan Data: Mesin komputasi bertanggung jawab untuk memproses data dan menjalankan instruksi yang diberikan oleh 
+    perangkat lunak.
+   -Penyimpanan Data: Hardware menyediakan kapasitas penyimpanan seperti hard drive, SSD, dan RAM untuk menyimpan data dan 
+    program yang sedang berjalan.
+   -Komunikasi: Hardware juga memungkinkan komunikasi antara perangkat, baik itu melalui jaringan kabel maupun nirkabel.
+   -Interaksi Pengguna: Perangkat keras seperti monitor, keyboard, dan mouse memungkinkan pengguna untuk berinteraksi 
+    dengan sistem.
+
+2. Sistem Operasi (Operating System):
+
+   -Manajemen Sumber Daya: Sistem operasi mengatur dan mengalokasikan sumber daya komputasi, seperti CPU, memori, dan 
+    perangkat keras lainnya, untuk memastikan bahwa berbagai tugas dapat dijalankan dengan efisien.
+   -Antarmuka Pengguna: Sistem operasi menyediakan antarmuka yang memungkinkan pengguna untuk berinteraksi dengan perangkat 
+    keras dan perangkat lunak. Ini bisa berupa antarmuka teks, grafis, atau bahkan suara.
+   -Manajemen File: Sistem operasi mengatur bagaimana data disimpan, diakses, dan dikelola pada perangkat penyimpanan.
+   -Keamanan: Melalui sistem hak akses dan mekanisme keamanan lainnya, sistem operasi memastikan bahwa data dan sumber daya 
+    sistem dilindungi dari akses yang tidak sah.
+   -Manajemen Proses: Sistem operasi mengatur eksekusi program dan tugas yang berjalan pada komputer, serta mengelola 
+    komunikasi antara proses yang berbeda.
+
+Dengan bekerja bersama-sama, mesin komputasi dan sistem operasi memastikan bahwa produk teknologi informasi dapat berfungsi dengan optimal, memberikan kinerja yang cepat, handal, dan aman bagi pengguna.
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
@@ -90,7 +114,37 @@ Link youtube nya di detik jawaban ini
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Software Development Life Cycle (SDLC) atau siklus hidup pengembangan perangkat lunak adalah serangkaian tahapan yang digunakan untuk mengembangkan perangkat lunak dari awal hingga selesai. Metode SDLC memastikan bahwa perangkat lunak yang dikembangkan memenuhi kebutuhan bisnis atau pengguna dan diproduksi dengan standar kualitas yang tinggi. Berikut adalah peran metode SDLC dalam pengembangan produk teknologi informasi:
+
+1. Pengidentifikasian Kebutuhan:
+   -Tahap awal dari SDLC adalah mengidentifikasi kebutuhan pengguna dan bisnis. Ini membantu tim pengembangan memahami apa 
+    yang diharapkan dari perangkat lunak dan bagaimana perangkat lunak tersebut akan digunakan.
+
+2. Perencanaan:
+   -Dalam tahap ini, perencanaan proyek dilakukan, termasuk estimasi biaya, waktu, dan sumber daya yang dibutuhkan. Rencana 
+    ini mencakup jadwal pengembangan, alokasi sumber daya, dan risiko yang mungkin muncul.
+
+3. Desain:
+   -Desain perangkat lunak dibuat berdasarkan kebutuhan yang telah diidentifikasi. Ini mencakup desain arsitektur sistem, 
+    desain antarmuka pengguna, dan spesifikasi teknis lainnya.
+
+4. Pembangunan (Pengkodean):
+   -Dalam tahap ini, perangkat lunak dikodekan berdasarkan desain yang telah dibuat. Kode sumber diterjemahkan menjadi 
+    program komputer yang dapat dijalankan.
+
+5. Pengujian:
+   -Setelah perangkat lunak dibangun, tahap pengujian dilakukan untuk memastikan bahwa perangkat lunak berfungsi sesuai 
+    dengan kebutuhan dan tidak ada bug atau kesalahan yang signifikan.
+
+6. Implementasi:
+   -Setelah berhasil diuji, perangkat lunak siap untuk diimplementasikan. Ini melibatkan penerapan perangkat lunak ke dalam 
+    lingkungan produksi dan pelatihan pengguna jika diperlukan.
+
+7. Pemeliharaan:
+   -Setelah implementasi, perangkat lunak mungkin memerlukan pemeliharaan untuk memperbaiki bug, menambah fitur baru, atau 
+    melakukan penyesuaian lainnya berdasarkan umpan balik pengguna.
+
+Metode SDLC membantu dalam memastikan bahwa perangkat lunak dikembangkan dengan pendekatan yang terstruktur dan terorganisir. Hal ini meminimalkan risiko kesalahan, memastikan kualitas produk, dan memastikan bahwa perangkat lunak memenuhi ekspektasi pengguna dan bisnis. Dengan demikian, metode SDLC berperan penting dalam menciptakan produk teknologi informasi yang berkualitas dan dapat diandalkan.
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 

@@ -1,6 +1,8 @@
 ## 1.1 Latar Belakang
 
-Absensi adalah metode untuk mencatat berapa banyak mahasiswa tidak hadir disetiap mata kuliah. Absensi online ini adalah pencatatan kehadiran dengan sistem cloud yang terhubung dengan database secara realtime, ini akan menyimpan data absensi secara otomatis tanpa perlu melakukan rekapitulasi. Selain itu, data absensi yang telah masuk dapat diakses di mana pun dan kapan pun, dengan catatan harus tetap terhubung dengan jaringan internet.
+Absensi adalah metode untuk mencatat berapa banyak mahasiswa tidak hadir disetiap mata kuliah. Absensi online ini adalah pencatatan kehadiran dengan sistem cloud yang terhubung dengan database secara realtime, ini akan menyimpan data absensi secara otomatis tanpa perlu melakukan rekapitulasi. Selain itu, data absensi yang telah masuk dapat diakses di mana pun dan kapan pun, dengan catatan harus tetap terhubung dengan jaringan internet. Kegunaan absensi ini terjadi pada pihak
+pelajar dan pihak pengada proses belajar mengajar. Salah satu kegunaan absensi ini kepada pihak pelajar antara lain adalah dalam perhitungan kemungkinan pelajar untuk mengikuti ujian dan salah satu kegunaan informasi absensi ini kepada pihak pengada kegiatan belajar mengajar antara lain untuk melakukan evaluasi kepada kepuasaan pelajar terhadap suatu mata pelajaran dan pembuatan tolak ukur ke depan guna pemberian ilmu yang lebih baik. Pengambilan data absensi ini sendiri dilakukan secara manual memiliki banyak kekurangan, seperti data yang tidak valid ketika data yang masuk salah. Kekurangan lain dari pengambilan data secara manual adalah hilang atau rusaknya data yang ada. Kekurangan lain adalah kurangnya efisiensi dan efektifitas pada pengolahan data.
+
 
 ## 1.2. Deksripsi Teknologi Informasi
 Roll Call adalah aplikasi yang bisa digunakan untuk mahasiswa dan dosen agar memudahkan absen secara jarak jauh, dengan ditambah fitur bisa mengirim permohonan izin jika memiliki halangan dan dapat mencatat kehadiran mahasiswa. Absen ini berfungsi untuk menggantikan absen secara manual yang biasanya dilakukan dengan mengisi daftar hadir dengan tulisan tangan, tentunya memudahkan proses absensi, dan meningkatkan efisiensi waktu.
@@ -16,9 +18,11 @@ Campaign : Membuat aplikasi sederhana dimana penggunanya dapat dengan mudah meng
 
 Target user :
 •	Semua usia 
-•	Orang yang menyukai hal simpel mudah tapi bermanfaat
+•	Orang yang menyukai absen cepat mudah dan simpel
 •	Seseorang yang ingin mendisiplinkan dirinya sendiri 
 •	Absen dapat dilakukan dan diakses darimana saja hanya dengan menggunakan smartphone dan internet
+•  
+
 
 
 User experience theme:

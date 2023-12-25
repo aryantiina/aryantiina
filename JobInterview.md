@@ -114,7 +114,7 @@ Dengan bekerja bersama-sama, mesin komputasi dan sistem operasi memastikan bahwa
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
@@ -152,4 +152,10 @@ Metode SDLC membantu dalam memastikan bahwa perangkat lunak dikembangkan dengan 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Database—sistem yang mengatur dan menyimpan data-membentuk fondasi dari setiap strategi analitik. Mendapatkan struktur dan arsitektur dasar sistem database Anda dengan benar dapat membedakan antara struktur yang didukung dengan baik yang memberikan nilai yang baik dan yang runtuh karena bebannya sendiri.
+
+Database biasanya berperan pada tahap kedua dari pipeline data: pemrosesan data (tahap "mempersiapkan dan menyimpan"). Aplikasi dan platform analitik menggunakan informasi yang terkandung dalam database untuk membantu organisasi memahami masa lalu dan memprediksi masa depan.
+
+Bagi organisasi yang memilih perangkat lunak dan sistem basis data, sangatlah penting untuk memilih teknologi yang bekerja secara efektif untuk masalah yang sedang dipecahkan.
+
+Memiliki infrastruktur yang tepat - termasuk berbagai jenis komputasi (CPU, FPGA, dan akselerator), penyimpanan, memori, jaringan, pustaka perangkat lunak, dan pengoptimalan Java - dapat mendorong peningkatan performa database dan pengelolaan database yang lebih mudah.

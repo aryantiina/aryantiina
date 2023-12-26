@@ -75,8 +75,7 @@ Landing page
 
 Details Page
 
-<img width="199" alt="Screenshot 2023-12-26 074358" src="https://github.com/aryantiina/aryantiina/assets/145460588/0eab7566-45ab-422f-a5ce-6b58ef46eff1">
-
+<img width="308" alt="Screenshot 2023-12-26 022317" src="https://github.com/aryantiina/aryantiina/assets/145460588/89783090-ce15-404e-a59d-0c4f88270164">
 
 Succsess Page
 

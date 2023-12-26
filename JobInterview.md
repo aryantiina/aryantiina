@@ -57,13 +57,13 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 4. Arsitektur Sistem
 
-
+<img width="377" alt="Screenshot 2023-11-22 081704" src="https://github.com/aryantiina/aryantiina/assets/145460588/15d3f728-2061-4bcf-925b-111c241d7c49">
 
 ## 5. Teknologi, Library, dan Framework
 
 - UI/UX Design : Canva
 - Web Server   : 
-- Text Editor  : Vs Code/NetBeans 
+- Text Editor  : Vs Code
 - Library      : 
 - Framework    : 
 - Database     : MySQL

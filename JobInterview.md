@@ -71,7 +71,7 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 6. Desain User Experience dan User Interface
 
-Landing Page 
+
 
 
 Details Page

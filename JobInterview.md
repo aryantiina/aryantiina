@@ -71,14 +71,16 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 6. Desain User Experience dan User Interface
 
+Landing page
 
-
+<img width="309" alt="Screenshot 2023-12-26 022110" src="https://github.com/aryantiina/aryantiina/assets/145460588/a3483c09-dbfe-46ed-baca-882db9bd93e3">
 
 Details Page
 
+<img width="308" alt="Screenshot 2023-12-26 022317" src="https://github.com/aryantiina/aryantiina/assets/145460588/a2f1ab13-e521-445c-8456-a4d04d6a028b">
 
 Succsess Page
-
+<img width="307" alt="Screenshot 2023-12-26 022603" src="https://github.com/aryantiina/aryantiina/assets/145460588/3ebf2561-16fb-4fb4-af61-0ed0e860d114">
 
 ## 7. Demonstrasi Video
 

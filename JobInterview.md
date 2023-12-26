@@ -80,6 +80,7 @@ Details Page
 <img width="308" alt="Screenshot 2023-12-26 022317" src="https://github.com/aryantiina/aryantiina/assets/145460588/a2f1ab13-e521-445c-8456-a4d04d6a028b">
 
 Succsess Page
+
 <img width="307" alt="Screenshot 2023-12-26 022603" src="https://github.com/aryantiina/aryantiina/assets/145460588/3ebf2561-16fb-4fb4-af61-0ed0e860d114">
 
 ## 7. Demonstrasi Video

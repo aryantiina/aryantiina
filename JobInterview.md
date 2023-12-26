@@ -30,7 +30,7 @@ User experience theme:
 •	Simpel
 •	Sederhana
 •	Bermanfaat
-•  Warna : pastel dan terang blue, green dan tosca
+•  Warna : Hitam dan terang lilac, green dan tosca
 
 
    

@@ -17,11 +17,12 @@ Tagline : Absen mudah, simpel dan sederhana
 Campaign : Membuat aplikasi sederhana dimana penggunanya dapat dengan mudah mengisi absensi secara online.
 
 Target user :
-•	Semua usia 
+•  Semua usia
 •	Orang yang menyukai absen cepat mudah dan simpel
 •	Seseorang yang ingin mendisiplinkan dirinya sendiri 
 •	Absen dapat dilakukan dan diakses darimana saja hanya dengan menggunakan smartphone dan internet
-•  
+•  Seorang Dosen atau guru yang menginginkan absen dengan cara cepat
+
 
 
 
@@ -54,6 +55,7 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 3. Struktur Data
 
+<img width="497" alt="Screenshot 2023-12-30 175028" src="https://github.com/aryantiina/aryantiina/assets/145460588/8a0e8558-9ef3-4f49-b196-925be2abd251">
 
 ## 4. Arsitektur Sistem
 <img width="464" alt="Screenshot 2023-12-26 032424" src="https://github.com/aryantiina/aryantiina/assets/145460588/f8f2be82-9b2b-4d35-bbf6-0020264300b7">

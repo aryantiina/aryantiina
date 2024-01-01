@@ -62,12 +62,35 @@ Pengguna | Memrubah data | Bisa merubah data jika terjadi perubahan  | ⭐⭐⭐
 
 ## 5. Teknologi, Library, dan Framework
 - UI/UX Design : Canva
-- Web Server   : 
-- Text Editor  : Vs Code
-- Library      : 
-- Framework    : 
+- Web Server   : Laravel
+- Text Editor  : Vs Code 
 - Database     : MySQL
-  
+
+# UI/UX Design : Canva
+UI/UX adalah singkatan dari "User Interface" dan "User Experience":
+
+UI (User Interface): Merujuk pada tampilan grafis dari suatu aplikasi atau situs web. Ini mencakup semua elemen visual yang dapat dilihat oleh pengguna, seperti tombol, ikon, gambar, teks, warna, tata letak, dan lainnya. Tujuannya adalah untuk menciptakan antarmuka yang intuitif, menarik, dan mudah digunakan oleh pengguna.
+
+UX (User Experience): Mengacu pada keseluruhan pengalaman pengguna saat menggunakan produk atau layanan. Ini mencakup bagaimana pengguna merasa saat berinteraksi dengan antarmuka, bagaimana mereka menavigasi melalui fitur-fitur, dan apakah mereka merasa puas dengan hasil yang diperoleh. Tujuannya adalah untuk memastikan bahwa pengguna memiliki pengalaman yang menyenangkan, efisien, dan memuaskan saat menggunakan produk atau layanan.
+
+Kedua aspek ini saling terkait dan penting dalam desain produk digital. Seorang desainer UI/UX bertanggung jawab untuk menciptakan antarmuka yang baik dan pengalaman pengguna yang positif untuk memastikan produk atau layanan dapat digunakan dengan mudah dan efektif oleh pengguna.
+
+Canva adalah sebuah platform desain grafis online yang memungkinkan pengguna untuk membuat berbagai jenis desain, mulai dari poster, presentasi, media sosial, hingga grafik web dengan mudah dan cepat. Diluncurkan pertama kali pada tahun 2012 oleh Melanie Perkins, Cliff Obrecht, dan Cameron Adams, Canva telah menjadi salah satu alat desain paling populer di dunia dengan jutaan pengguna aktif.
+
+# Web Server   : Laravel
+web server adalah sebuah perangkat keras atau perangkat lunak yang menyimpan konten web seperti halaman web, gambar, video, atau konten lainnya, dan mengirimkannya ke pengguna yang mengaksesnya melalui Internet. Dengan kata lain, web server berfungsi sebagai "tuan rumah" yang menyimpan dan menyajikan halaman web kepada pengguna atau klien.
+
+Laravel adalah salah satu framework aplikasi web berbasis PHP yang paling populer dan paling banyak digunakan di dunia. Dikembangkan pertama kali oleh Taylor Otwell pada tahun 2011, Laravel telah menjadi pilihan utama bagi banyak pengembang web karena kemudahan penggunaannya, struktur yang efisien, dan kumpulan fitur-fitur canggih yang disediakannya.
+
+# Text Editor  : Vs Code 
+Text editor adalah perangkat lunak yang digunakan untuk membuat, mengedit, dan memformat teks. Text editor memungkinkan pengguna untuk menulis kode, dokumen, atau teks biasa.
+
+VS Code, atau Visual Studio Code, adalah editor kode sumber yang dikembangkan oleh Microsoft. VS Code dirancang untuk menjadi ringan, cepat, dan mendukung berbagai bahasa pemrograman dan kerangka kerja.
+
+# Database     : MySQL
+Database adalah kumpulan data yang disimpan secara terstruktur dan dapat diakses serta dikelola dengan menggunakan perangkat lunak tertentu. Dalam konteks teknologi informasi, database seringkali digunakan untuk menyimpan informasi yang dapat diolah dan dikelola dengan mudah. Database memungkinkan pengguna untuk menyimpan, mengambil, memperbarui, dan mengelola data dengan efisien.
+
+MySQL adalah sebuah sistem manajemen basis data relasional (RDBMS) yang populer dan open-source. Ini berarti bahwa MySQL dapat digunakan, dimodifikasi, dan didistribusikan secara gratis. MySQL dikembangkan, didukung, dan didistribusikan oleh perusahaan Oracle.
 
 ## 6. Desain User Experience dan User Interface
 
